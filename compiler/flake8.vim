@@ -1,5 +1,5 @@
 " Vim compiler file
-" Language:                Flake8 (Python)
+" Compiler:                Flake8 (Python)
 " Maintainer:              Diego Garcia <drgarcia1986@gmail.com>
 " URL:                     https://github.com/drgarcia1986/python-compilers.vim
 " Inspired by:             PHPSpec (https://github.com/renanivo/phpspec.vim)
