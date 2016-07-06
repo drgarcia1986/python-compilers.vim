@@ -12,7 +12,8 @@ If you want to install it by yourself, just copy the `compiler` folder to your `
 
 compilers
 ---------
-* flake8
+* [flake8](http://flake8.pycqa.org/en/latest/)
+* [pyling](https://www.pylint.org/)
 
 Usage
 -----
@@ -23,7 +24,7 @@ Usage
 ```
 vim-dispatch integration
 ------------------------
-I'm strongly recommend to use compilers with [vim-dispatch](https://github.com/tpope/vim-dispatch).
+I strongly recommend you to use compilers with [vim-dispatch](https://github.com/tpope/vim-dispatch).
 For example to run a asynchronous `flake8` check in every buffer save set in your `vimrc`:
 
 ```vim
