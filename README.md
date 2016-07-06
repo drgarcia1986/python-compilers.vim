@@ -29,7 +29,7 @@ For example to run a asynchronous `flake8` check in every buffer save set in you
 ```vim
 augroup python
     au!
-    autocmd FileType python let b:dispatch='flake8 %'
+    autocmd FileType python compiler flake8
     autocmd BufWrite *.py :Dispatch
 augroup END
 ```
