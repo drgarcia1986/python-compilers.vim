@@ -13,7 +13,7 @@ If you want to install it by yourself, just copy the `compiler` folder to your `
 compilers
 ---------
 * [flake8](http://flake8.pycqa.org/en/latest/)
-* [pyling](https://www.pylint.org/)
+* [pylint](https://www.pylint.org/)
 
 Usage
 -----
