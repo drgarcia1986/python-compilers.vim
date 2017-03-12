@@ -14,6 +14,7 @@ compilers
 ---------
 * [flake8](http://flake8.pycqa.org/en/latest/)
 * [pylint](https://www.pylint.org/)
+* [mypy](http://mypy-lang.org/)
 
 Usage
 -----
